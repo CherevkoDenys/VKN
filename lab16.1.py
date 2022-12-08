@@ -10,7 +10,7 @@ plt.ylabel('y')
 plt.grid(True)
 plt.legend()
 plt.show()
-plt.savefig('cosinus.png.',dpi=400)
+plt.savefig("D:\Git\Repos\VKN\cosinus.png" ,dpi=400)
 
 
 
